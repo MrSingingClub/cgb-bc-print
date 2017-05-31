@@ -1,0 +1,30 @@
+;;;Reference, Value, Footprint, Datasheet;;;;;;;;
+511-ST232C;x;0,472;U2,MAX232,SMD_Packages:SO-16-N,;;;;;;;;
+;x;0,028;C6,100n,Capacitors_SMD:C_0805_HandSoldering,;;;;;;;;
+;x;0,028;C7,100n,Capacitors_SMD:C_0805_HandSoldering,;;;;;;;;
+81-GRM21BC8YA106KE1L;;0,274;C1,10Âµ,Capacitors_SMD:C_0805_HandSoldering,;;;;;;;36;85 €
+660-RK73H2ATTD1003F;;0,014;R1,100k,Resistors_SMD:R_0805_HandSoldering,;;;;;;;36; 70 € 
+;;2,77;U1,MPQ2451,TO_SOT_Packages_SMD:SOT-23-6_Handsoldering,;;;;;;;;
+621-B140-F;;0,251;D1,B140,tobi:SMA-4,;;;;;;;;
+810-LTF5022T3R3N2R5L;;0,721;L1,3.3Âµ,tobi:inductorsmd,;;;;;;;;
+;;0,111;C3,22Âµ,Capacitors_SMD:C_0805_HandSoldering,;;;;;;;;
+;;0,028;C2,100n,Capacitors_SMD:C_0805_HandSoldering,;;;;;;;;
+621-B140-F;;0,251;D2,B140,tobi:SMA-4,;;;;;;;;
+;x;0,028;C11,100n,Capacitors_SMD:C_0805_HandSoldering,;;;;;;;;
+;x;0,028;C10,100n,Capacitors_SMD:C_0805_HandSoldering,;;;;;;;;
+;x;0,028;C12,100n,Capacitors_SMD:C_0805_HandSoldering,;;;;;;;;
+579-PIC16F1615-I/SL;x;0,962;IC1,PIC16F1615,Housings_SSOP:TSSOP-14_4.4x5mm_Pitch0.65mm,;;;;;;;;
+538-22-28-4362;x;;P4,CONN_01X06,Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm,;;;;;;;;
+538-22-28-4362;x;;P3,CONN_01X05,Pin_Headers:Pin_Header_Straight_1x05_Pitch2.54mm,;;;;;;;;
+942-IRF7103TRPBF;x;0,482;T1,IRF7103,SMD_Packages:SOIC-8-N,;;;;;;;;
+667-ERJ-6ENF22R0V;x;0,021;R4,22,Resistors_SMD:R_0805_HandSoldering,;;;;;;;;
+;x;0,022;C4,10n,Capacitors_SMD:C_0805_HandSoldering,;;;;;;;;
+;x;0,022;C5,10n,Capacitors_SMD:C_0805_HandSoldering,;;;;;;;;
+667-ERJ-6ENF22R0V;x;0,021;R5,22,Resistors_SMD:R_0805_HandSoldering,;;;;;;;;
+667-ERJ-6ENF1001V;x;0,021;R2,1k,Resistors_SMD:R_0805_HandSoldering,;;;;;;;;
+667-ERJ-6ENF1001V;x;0,021;R3,1k,Resistors_SMD:R_0805_HandSoldering,;;;;;;;;
+;x;0,028;C9,100n,Capacitors_SMD:C_0805_HandSoldering,;;;;;;;;
+538-22-28-4362;x;0,459166667;P1,CONN_01X08,Pin_Headers:Pin_Header_Straight_1x08_Pitch2.54mm,;;;;;;;;
+;x;2;Leiterkarte;;;;;;;;
+;;;;;;;;;;;
+;4,671166667;9,091166667;;;;;;;;;
